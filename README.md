@@ -15,7 +15,7 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://cdn.discordapp.com/avatars/930383131863842816/27031884d244836cb703935d01ab7281.png?format=webp&quality=lossless&width=663&height=663">
+      <a href="/media/adam.png">
         <img src="" width="100px;" alt="Adam">
         <br />
         <sub><b>Adam</b></sub>
