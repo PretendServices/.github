@@ -1,4 +1,4 @@
-<center><a href="https://discord.gg/pretendbot"><img src="https://media.discordapp.net/attachments/1183437754231685261/1228980219667415110/pretend.png?ex=662e0405&is=661b8f05&hm=34ef33dfb950f4a1b9ace8d11a357147d31a5d728abbf38bb3d084ecddbd2daa&=&format=webp&quality=lossless"></img></a></center>
+<center><a href="https://discord.gg/pretendbot"><img src="https://raw.githubusercontent.com/PretendServices/.github/main/media/pretend-gh-white.png"></img></a></center>
 
 <div align=center>
   <a href="https://github.com/PretendServices">
