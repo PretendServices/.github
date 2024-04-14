@@ -15,8 +15,8 @@
 <table>
   <tr>
     <td align="center">
-      <a href="/media/adam.png">
-        <img src="" width="100px;" alt="Adam">
+      <a href="https://pretend.best">
+        <img src="https://raw.githubusercontent.com/PretendServices/.github/main/media/adam.png" width="100px;" alt="Adam">
         <br />
         <sub><b>Adam</b></sub>
         </img>
@@ -25,14 +25,14 @@
       <a href="https://pretend.best" title="Owner">👑</a>
     </td>
         <td align="center">
-      <a href=https://cdn.discordapp.com/avatars/863914425445908490/9010c5e864af7d514b6edb3f7ff8e398.png?format=webp&quality=lossless&width=663&height=663"">
-        <img src="" width="100px;" alt="Nick">
+      <a href="https://pretend.best">
+        <img src="https://raw.githubusercontent.com/PretendServices/.github/main/media/nick.png" width="100px;" alt="Nick">
         <br />
         <sub><b>Nick</b></sub>
         </img>
       </a>
       <br />
-      <a href="https://pretend.best" title="Owner"></a>
+      <a href="https://pretend.best" title="Owner">👑</a>
     </td>
   </tr>
 </table>
