@@ -1,5 +1,6 @@
-<center><a href="https://discord.gg/pretendbot"><img src="https://media.discordapp.net/attachments/1183437754231685261/1228980219667415110/pretend.png?ex=662e0405&is=661b8f05&hm=34ef33dfb950f4a1b9ace8d11a357147d31a5d728abbf38bb3d084ecddbd2daa&=&format=webp&quality=lossless"></img></a></center>
-
+<div align=center>
+<center><a href="https://discord.gg/pretendbot"><img src="https://media.discordapp.net/attachments/1183437754231685261/1228995052752207924/pretend-gh-white.png?ex=662e11d6&is=661b9cd6&hm=47b913ae1dd9d0a55c9aa097f0d62f14c14658d8c7d15925e777fadf97c87601&=&format=webp&quality=lossless"></img></a></center>
+</div>
 <div align=center>
   <a href="https://github.com/PretendServices">
     <img src="https://komarev.com/ghpvc/?username=PretendServices" alt="shield.png">
@@ -43,6 +44,16 @@
       </a>
       <br />
       <a href="https://github.com/qrscann" title="Manager">💼</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/4pfshaun">
+        <img src="https://raw.githubusercontent.com/PretendServices/.github/main/media/sent.png" width="100px;" alt="Nick">
+        <br />
+        <sub><b>sent</b></sub>
+        </img>
+      </a>
+      <br />
+      <a href="https://github.com/4pfshaun" title="Developer">👨‍💻</a>
     </td>
     <td align="center">
       <a href="https://e-z.bio/bhop">
