@@ -1,5 +1,6 @@
-<center><a href="https://discord.gg/pretendbot"><img src="https://raw.githubusercontent.com/PretendServices/.github/main/media/pretend-gh-white.png"></img></a></center>
-
+<div align=center>
+<center><a href="https://discord.gg/pretendbot"><img src="https://media.discordapp.net/attachments/1183437754231685261/1228995052752207924/pretend-gh-white.png?ex=662e11d6&is=661b9cd6&hm=47b913ae1dd9d0a55c9aa097f0d62f14c14658d8c7d15925e777fadf97c87601&=&format=webp&quality=lossless"></img></a></center>
+</div>
 <div align=center>
   <a href="https://github.com/PretendServices">
     <img src="https://komarev.com/ghpvc/?username=PretendServices" alt="shield.png">
