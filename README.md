@@ -45,6 +45,16 @@
       <a href="https://github.com/qrscann" title="Manager">💼</a>
     </td>
     <td align="center">
+      <a href="https://github.com/4pfshaun">
+        <img src="https://raw.githubusercontent.com/PretendServices/.github/main/media/sent.png" width="100px;" alt="Nick">
+        <br />
+        <sub><b>sent</b></sub>
+        </img>
+      </a>
+      <br />
+      <a href="https://github.com/4pfshaun" title="Developer">👨‍💻</a>
+    </td>
+    <td align="center">
       <a href="https://e-z.bio/bhop">
         <img src="https://raw.githubusercontent.com/PretendServices/.github/main/media/bhop.png" width="100px;" alt="Nick">
         <br />
