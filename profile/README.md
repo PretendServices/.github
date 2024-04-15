@@ -3,7 +3,7 @@
 </div>
 <div align=center>
   <a href="https://github.com/PretendServices">
-    <img src="https://komarev.com/ghpvc/?username=PretendServices" alt="shield.png">
+    <img src="https://komarev.com/ghpvc/?username=PretendServices&style=for-the-badge" alt="shield.png">
   </a>
 
 <br />
